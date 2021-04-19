@@ -1,0 +1,13 @@
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\bin\Debug\netcoreapp3.1\CalculatorPract2.exe
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\bin\Debug\netcoreapp3.1\CalculatorPract2.deps.json
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\bin\Debug\netcoreapp3.1\CalculatorPract2.runtimeconfig.json
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\bin\Debug\netcoreapp3.1\CalculatorPract2.runtimeconfig.dev.json
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\bin\Debug\netcoreapp3.1\CalculatorPract2.dll
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\bin\Debug\netcoreapp3.1\CalculatorPract2.pdb
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.csprojAssemblyReference.cache
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.AssemblyInfoInputs.cache
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.AssemblyInfo.cs
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.csproj.CoreCompileInputs.cache
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.dll
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.pdb
+C:\Users\Arsen\source\repos\CalculatorPract2\CalculatorPract2\obj\Debug\netcoreapp3.1\CalculatorPract2.genruntimeconfig.cache
